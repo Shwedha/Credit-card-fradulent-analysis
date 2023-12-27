@@ -15,12 +15,12 @@ Analysis of credit card fraudulent details with a globally available dataset. Th
 2. Check for the duplicate and null values, drop them.
 
 
-### VISUALISATION:
+### Visualisation:
 
 1. I have used boxplots, correlation matrix, basic plots (combined together as subplots for each feature)
  and bar charts.
 
- ### MODELLING:
+ ### Modelling:
 
 1. Set the target and response variable, perform standardisation.
 2. Since the dataset is highly imbalanced, I am also performing a method of oversampling known as SMOTE (Synthetic Minority Oversampling Technique).
@@ -33,7 +33,7 @@ Analysis of credit card fraudulent details with a globally available dataset. Th
    (f) XGBOOST
 Additionally I have used another classifier known as the dummy classifier, to show the classifiers comparison.
 
-### MODEL COMPARISON:
+### Model comparison:
 
 Compared using the following:
 (a) ROC curves 
