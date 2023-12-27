@@ -6,7 +6,7 @@ Analysis of credit card fraudulent details with a globally available dataset. Th
 
 1. Python:
    Necessary libraries have to be imported I have imported them in the code at the start itself. 
-2. Datasets: ![I have taken it from Kaggle] (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
+2. Datasets: I have taken it from Kaggle : (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
 
 ## OVERVIEW:
 
