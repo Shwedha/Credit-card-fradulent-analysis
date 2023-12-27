@@ -25,19 +25,29 @@ Analysis of credit card fraudulent details with a globally available dataset. Th
 1. Set the target and response variable, perform standardisation.
 2. Since the dataset is highly imbalanced, I am also performing a method of oversampling known as SMOTE (Synthetic Minority Oversampling Technique).
 3. Different models such as:
-   (a) Logistic Regression
-   (b) Random Forest
-   (c) Naive Bayes
-   (d) Decision trees
-   (e) K-means Nearest Neighbour (KNN)
-   (f) XGBOOST
+
+   	(a) Logistic Regression
+    
+   	(b) Random Forest
+   
+   	(c) Naive Bayes
+   
+   	(d) Decision trees
+   
+   	(e) K-means Nearest Neighbour (KNN)
+   
+   	(f) XGBOOST
+
 Additionally I have used another classifier known as the dummy classifier, to show the classifiers comparison.
 
 ### Model comparison:
 
 Compared using the following:
-(a) ROC curves 
+
+(a) ROC curves 	
+
 (b) Best Threshold, F1 Score,	Accuracy,	Recall,	Precision
+
 (c) Confusion Matrix 
 
 ## REFERENCES:
