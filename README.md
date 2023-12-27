@@ -26,6 +26,8 @@ Analysis of credit card fraudulent details with a globally available dataset. Th
 2. Since the dataset is highly imbalanced, I am also performing a method of oversampling known as SMOTE (Synthetic Minority Oversampling Technique).
 3. Different models such as:
    (a) Logistic Regression
+
+
    (b) Random Forest
    (c) Naive Bayes
    (d) Decision trees
